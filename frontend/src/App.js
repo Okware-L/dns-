@@ -358,7 +358,7 @@ const editRecord = (name) => {
         <div className="header-container">
           <header>
             <div className="left">
-              <p className="title">😁Okware Name Service</p>
+              <p className="title">😄Ok ke Name Service</p>
               <p className="subtitle">Your decentralized identity!</p>
             </div>
             {/**display a logo andwallet connection status */}
